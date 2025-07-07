@@ -2,7 +2,7 @@
 
 ![服务管理界面](../assets/ServiceManagement.png)
 
-对系统内所有服务进行统一管理，包括服务的同步、注册、配置、启停，流程设计，服务流程图等操作。
+对系统内所有服务(HealthConnect BS)进行统一管理，包括服务的同步、注册、配置、启停，流程设计，服务流程图等操作。
 
 ## 功能说明
 
@@ -13,7 +13,7 @@
 - **Search/Reset**: 提供搜索和重置功能按钮
 
 ### 服务操作按钮
-- **Add**: 新增服务配置
+- **Add**: 新增服务配置(HealthConnect BS)
 - **Sync**: 同步服务配置
 - **Export**: 导出服务配置
 
@@ -148,7 +148,7 @@ Unified management of all services in the system, including service synchronizat
 - **Search/Reset**: Provides search and reset function buttons
 
 ### Service Operation Buttons
-- **Add**: Add new service configuration
+- **Add**: Add new service configuration(HealthConnect BS)
 - **Sync**: Synchronize service configuration
 - **Export**: Export service configuration
 
