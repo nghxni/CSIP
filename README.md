@@ -1,2 +1,5 @@
 # CSIP
 Converged System Integration Platform.
+
+ Introduction
+ Build SOA standard specifications and governance control system, establish a service-oriented architecture centered on the integration platform, achieve related system application integration, as well as unified service management, security management, business process management, and business process monitoring, support flexible process reorganization and service reuse, improve IT control capabilities. Develop customized control platform to achieve service lifecycle management and subsequent service automated monitoring and operation and maintenance capabilities, implement integration through ESB products, technical architecture, service development governance standard system, enabling IT departments to conduct effective control.
